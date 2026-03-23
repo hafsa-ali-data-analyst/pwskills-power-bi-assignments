@@ -43,7 +43,7 @@ This repository contains Power BI assignments and reports that I completed as pa
 
 ## How to Use
 ### Clone this Repository
-- Git Clone: <https://github.com/hafsa-ali-data-analyst/pwskills-sql-assignments.git>
+- Git Clone: <https://github.com/hafsa-ali-data-analyst/pwskills-power-bi-assignments.git>
 - Open the Power BI (.pbix) file using Power BI Desktop to view and interact with the reports.
  ## Author
  **Hafsa Ali**
